@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-My name is Eric Drewitz and I am both a Meteorologist (SUNY Oswego Class of 2016) and a self-taught software developer (started teaching myself in 2022-2023). 
+My name is Eric Drewitz and I am both a Meteorologist (SUNY Oswego Class of 2016) and a self-taught software developer (started teaching myself software engineering in 2022-2023). 
 
 My work focuses on developing new Python libraries focusing on weather and climate. 
 

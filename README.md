@@ -20,7 +20,7 @@ Current libraries I've developed and actively maintain are:
 
 <img width="200" height="150" alt="climate" src="https://github.com/edrewitz/PyClimo/blob/main/climate.jpg?raw=true"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
-I hope to continue learning Python, specifically more about AI/ML/DL as well as C++ to speed up certain functions in Python. I also want to learn JavaScript/CSS/HTML so I can be a full-stack developer. 
+I hope to continue learning Python, specifically more about AI/ML/DL. In addition to Python, I hope to learn C++ to speed up certain functions in Python as well as JavaScript/CSS/HTML so I can be a full-stack developer someday. 
 
 I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming for fellow meteorologists, atmospheric scientists and climate scientists alike. 
 <!--

@@ -12,6 +12,14 @@ Current libraries I've developed and actively maintain are:
 
 <img width="200" alt="firewxpy logo" src="https://github.com/user-attachments/assets/27d7353c-89ae-4827-a1fb-0d64d80599ad"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
+Anaconda Downloads: 
+
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/firewxpy.svg)](https://anaconda.org/conda-forge/firewxpy)
+
+PIP Downloads:
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/firewxpy)
+
 The FireWxPy package provides the following extra functionality compared to existing packages:
 
 i) A large selection of various weather graphics from various different data souces.
@@ -23,13 +31,29 @@ ii) Easy to use - the user sets the arguments in the function to their choosing 
 
 ![image](https://github.com/user-attachments/assets/fb5ecdf9-bd51-4243-be7d-92af0952bfd8) ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
+Anaconda Downloads:
+
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xmacis2py.svg)](https://anaconda.org/conda-forge/xmacis2py)
+
+PIP Downloads:
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/xmacis2py)
+
 The xmACIS2Py package provides the following extra functionality compared to existing packages:
 
 i) User friendly - The user sets the parameters in the function to their choosing and the function does all the work - downloading, parsing and plotting the data.
  
 ii) Users can easily create summary graphics for the various weather stations in the ACIS2 database. 
    
-3) [**PyClimo**](https://pypi.org/project/pyclimo/) - An open source library for climate data analysis such as NCAR Reanalysis and PRISM data. 
+3) [**PyClimo**](https://pypi.org/project/pyclimo/) - An open source library for climate data analysis such as NCAR Reanalysis and PRISM data.
+
+Anaconda Downloads:
+
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyclimo.svg)](https://anaconda.org/conda-forge/pyclimo)
+
+ PIP Downloads:
+
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyclimo)
 
 <img width="200" height="150" alt="climate" src="https://github.com/edrewitz/PyClimo/blob/main/climate.jpg?raw=true"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 

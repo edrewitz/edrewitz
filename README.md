@@ -11,14 +11,37 @@ Current libraries I've developed and actively maintain are:
 1) [**FireWxPy**](https://pypi.org/project/firewxpy/) - An open source library focused on fire weather analysis and forecasting.
 
 <img width="200" alt="firewxpy logo" src="https://github.com/user-attachments/assets/27d7353c-89ae-4827-a1fb-0d64d80599ad"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
+
+The FireWxPy package provides the following extra functionality compared to existing packages:
+
+i) A large selection of various weather graphics from various different data souces.
+   - These weather graphics have a specific focus on fire weather. 
+
+ii) Easy to use - the user sets the arguments in the function to their choosing and the functions do all the work including downloading, parsing and plotting the data. 
  
 2) [**xmACIS2Py**](https://pypi.org/project/xmacis2py/) - An open source library focused on creating data visualizations of ACIS2 climate data (xmACIS2 in Python).
 
 ![image](https://github.com/user-attachments/assets/fb5ecdf9-bd51-4243-be7d-92af0952bfd8) ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
+
+The xmACIS2Py package provides the following extra functionality compared to existing packages:
+
+i) User friendly - The user sets the parameters in the function to their choosing and the function does all the work - downloading, parsing and plotting the data.
+ 
+ii) Users can easily create summary graphics for the various weather stations in the ACIS2 database. 
    
 3) [**PyClimo**](https://pypi.org/project/pyclimo/) - An open source library for climate data analysis such as NCAR Reanalysis and PRISM data. 
 
 <img width="200" height="150" alt="climate" src="https://github.com/edrewitz/PyClimo/blob/main/climate.jpg?raw=true"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
+
+The PyClimo package provides the following extra functionality compared to existing packages:
+
+i) User friendly - The user sets the parameters in the function to their choosing and the function does all the work - downloading, parsing and plotting the data.
+
+ii) Plots the period mean of the dataset.
+
+iii) Utilizes the [xeofs library](https://pypi.org/project/xeofs/) functionality to perform Empirical Orthogonal Function (EOF) Analysis on the various netCDF4 datasets.
+
+iv) Accesses NCAR Reanalysis data and PRISM Climate Group data. 
 
 4) [**WxData**](https://github.com/edrewitz/wxdata/tree/main?tab=readme-ov-file#wxdata) - An open source library that downloads, pre-processes and post-processes a medley of open-source weather data.
 
@@ -26,14 +49,13 @@ Current libraries I've developed and actively maintain are:
 
 The WxData package provides the following extra functionality compared to existing packages for downloading weather data:
 
-1) Friendly for users working on VPN/PROXY connections.
+i) Friendly for users working on VPN/PROXY connections.
 
-2) Converts GRIB variable keys into variable keys that are in plain language.
+ii) Post-processes GRIB data by remapping the GRIB variable keys into variable keys that are in plain language. 
 
-3) Has a scanner that checks if the data files on your PC are up to date with those on the data server. This helps newer developers avoid temporary IP address bans from data servers by avoiding excessive/repetative data downloading.
+iii) Has a scanner that checks if the data files on your PC are up to date with those on the data server. This helps newer developers avoid temporary IP address bans from data servers by avoiding excessive/repetative data downloading.
 
-4) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run. 
-
+iv) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run.
 
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 

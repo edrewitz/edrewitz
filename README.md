@@ -20,9 +20,23 @@ Current libraries I've developed and actively maintain are:
 
 <img width="200" height="150" alt="climate" src="https://github.com/edrewitz/PyClimo/blob/main/climate.jpg?raw=true"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
-I hope to continue learning Python, specifically more about AI/ML/DL. In addition to Python, I hope to learn R and possibly C++, JavaScript/HTML/CSS. 
+4) [**WxData**](https://github.com/edrewitz/wxdata/tree/main?tab=readme-ov-file#wxdata) - An open source library that downloads, pre-processes and post-processes a medley of open-source weather data.
 
-I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming for fellow meteorologists, atmospheric scientists and climate scientists alike. 
+![weather icon](https://github.com/edrewitz/wxdata/blob/main/icons/weather%20icon.jpg) ![python icon](https://github.com/edrewitz/wxdata/blob/main/icons/python%20logo.png)
+
+The WxData package provides the following extra functionality compared to existing packages for downloading weather data:
+
+1) Friendly for users working on VPN/PROXY connections.
+
+2) Converts GRIB variable keys into variable keys that are in plain language.
+
+3) Has a scanner that checks if the data files on your PC are up to date with those on the data server. This helps newer developers avoid temporary IP address bans from data servers by avoiding excessive/repetative data downloading.
+
+4) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run. 
+
+
+
+***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--
 **edrewitz/edrewitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

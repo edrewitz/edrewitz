@@ -71,6 +71,11 @@ iv) Accesses NCAR Reanalysis data and PRISM Climate Group data.
 
 ![weather icon](https://github.com/edrewitz/wxdata/blob/main/icons/weather%20icon.jpg) ![python icon](https://github.com/edrewitz/wxdata/blob/main/icons/python%20logo.png)
 
+Anaconda Downloads
+
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wxdata.svg)](https://anaconda.org/conda-forge/wxdata)
+
+
 The WxData package provides the following extra functionality compared to existing packages for downloading weather data:
 
 i) Friendly for users working on VPN/PROXY connections.

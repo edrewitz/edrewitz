@@ -76,6 +76,12 @@ Anaconda Downloads
 [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wxdata.svg)](https://anaconda.org/conda-forge/wxdata)
 
 
+PIP Downloads:
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/wxdata)
+
+
+
 The WxData package provides the following extra functionality compared to existing packages for downloading weather data:
 
 i) Friendly for users working on VPN/PROXY connections.

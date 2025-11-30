@@ -67,7 +67,7 @@ iii) Utilizes the [xeofs library](https://pypi.org/project/xeofs/) functionality
 
 iv) Accesses NCAR Reanalysis data and PRISM Climate Group data. 
 
-4) [**WxData**](https://github.com/edrewitz/wxdata/tree/main?tab=readme-ov-file#wxdata) - An open source library that downloads, pre-processes and post-processes a medley of open-source weather data.
+4) [**WxData**](https://pypi.org/project/wxdata/) - An open source library that downloads, pre-processes and post-processes a medley of open-source weather data.
 
 ![weather icon](https://github.com/edrewitz/wxdata/blob/main/icons/weather%20icon.jpg) ![python icon](https://github.com/edrewitz/wxdata/blob/main/icons/python%20logo.png)
 

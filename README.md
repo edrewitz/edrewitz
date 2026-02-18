@@ -91,7 +91,7 @@ iii) Has a scanner that checks if the data files on your PC are up to date with 
 iv) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run.
 
 
-5) [**shapeography**](https://pypi.org/project/shapeography/)
+5) [**shapeography**](https://pypi.org/project/shapeography/) - A Python library that both a client that downloads various shapefiles and GEOJSON files from the web and processes these geometry files. Users can also process locally hosted shapefiles and GEOJSON files. Also works for those on VPN/PROXY connections.
 
 <img src="https://github.com/edrewitz/shapeography/blob/main/Thumbnails/86506Livingston-Rev-Base.jpg?raw=true" width="200" alt="Alt text" /> <img src="https://github.com/edrewitz/WxData/blob/1be590e9a16033974a592d8cf99f3cd521f95e0b/icons/python%20logo.png?raw=true" width="200" alt="Alt text" />
 

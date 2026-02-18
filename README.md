@@ -80,8 +80,6 @@ PIP Downloads:
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/wxdata)
 
-
-
 The WxData package provides the following extra functionality compared to existing packages for downloading weather data:
 
 i) Friendly for users working on VPN/PROXY connections.
@@ -92,6 +90,16 @@ iii) Has a scanner that checks if the data files on your PC are up to date with 
 
 iv) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run.
 
+
+5) [**shapeography**](https://pypi.org/project/shapeography/)
+
+<img src="https://github.com/edrewitz/shapeography/blob/main/Thumbnails/86506Livingston-Rev-Base.jpg?raw=true" width="200" alt="Alt text" /> <img src="https://github.com/edrewitz/WxData/blob/1be590e9a16033974a592d8cf99f3cd521f95e0b/icons/python%20logo.png?raw=true" width="200" alt="Alt text" />
+
+shapeography is a package that has a client to manage shapefiles/GEOJSON files. The client supports users on VPN/PROXY connections and is geared towards automation. 
+
+shapeography also has functions to unzip shapefiles/GEOJSON files (supports .zip, .gz, .tar and .tar.gz)
+
+shapeography also extracts the raster data and returns a geopandas.GeoDataFrame of geometry data and full datasets. 
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--

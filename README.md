@@ -101,6 +101,14 @@ shapeography also has functions to unzip shapefiles/GEOJSON files (supports .zip
 
 shapeography also extracts the raster data and returns a geopandas.GeoDataFrame of geometry data and full datasets. 
 
+Anaconda Downloads:
+
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/shapeography.svg)](https://anaconda.org/conda-forge/shapeography)
+
+PIP Downloads:
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/shapeography)
+
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--
 **edrewitz/edrewitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

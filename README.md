@@ -95,12 +95,6 @@ iv) Preserves system memory by clearing out old data files with each new data do
 
 <img src="https://github.com/edrewitz/shapeography/blob/main/Thumbnails/86506Livingston-Rev-Base.jpg?raw=true" width="200" alt="Alt text" /> <img src="https://github.com/edrewitz/WxData/blob/1be590e9a16033974a592d8cf99f3cd521f95e0b/icons/python%20logo.png?raw=true" width="200" alt="Alt text" />
 
-shapeography is a package that has a client to manage shapefiles/GEOJSON files. The client supports users on VPN/PROXY connections and is geared towards automation. 
-
-shapeography also has functions to unzip shapefiles/GEOJSON files (supports .zip, .gz, .tar and .tar.gz)
-
-shapeography also extracts the raster data and returns a geopandas.GeoDataFrame of geometry data and full datasets. 
-
 Anaconda Downloads:
 
 [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/shapeography.svg)](https://anaconda.org/conda-forge/shapeography)
@@ -108,6 +102,12 @@ Anaconda Downloads:
 PIP Downloads:
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/shapeography)
+
+shapeography is a package that has a client to manage shapefiles/GEOJSON files. The client supports users on VPN/PROXY connections and is geared towards automation. 
+
+shapeography also has functions to unzip shapefiles/GEOJSON files (supports .zip, .gz, .tar and .tar.gz)
+
+shapeography also extracts the raster data and returns a geopandas.GeoDataFrame of geometry data and full datasets. 
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--

@@ -8,7 +8,7 @@ My work focuses on developing new Python libraries focusing on weather and clima
 
 Current libraries I've developed and actively maintain are:
 
-1) [**FireWxPy**](https://pypi.org/project/firewxpy/) - An open source library focused on fire weather analysis and forecasting.
+1) [**FireWxPy**](https://pypi.org/project/firewxpy/) - An open source library focused on weather data visualization that has a special emphasis on fire weather. 
 
 <img width="200" alt="firewxpy logo" src="https://github.com/user-attachments/assets/27d7353c-89ae-4827-a1fb-0d64d80599ad"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 

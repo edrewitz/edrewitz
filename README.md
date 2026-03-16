@@ -8,7 +8,7 @@ My work focuses on developing new Python libraries focusing on weather and clima
 
 Current libraries I've developed and actively maintain are:
 
-1) [**FireWxPy**](https://pypi.org/project/firewxpy/) - An open source library focused on weather data visualization that has a special emphasis on fire weather. 
+1) [**FireWxPy**](https://pypi.org/project/firewxpy/) - An open source Python package focused on weather data visualization that has a special emphasis on fire weather. 
 
 <img width="200" alt="firewxpy logo" src="https://github.com/user-attachments/assets/27d7353c-89ae-4827-a1fb-0d64d80599ad"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
@@ -27,7 +27,7 @@ i) A large selection of various weather graphics from various different data sou
 
 ii) Easy to use - the user sets the arguments in the function to their choosing and the functions do all the work including downloading, parsing and plotting the data. 
  
-2) [**xmACIS2Py**](https://pypi.org/project/xmacis2py/) - An open source library focused on creating data visualizations of ACIS2 climate data (xmACIS2 in Python).
+2) [**xmACIS2Py**](https://pypi.org/project/xmacis2py/) - An open source Python package focused on creating data visualizations of ACIS2 climate data (xmACIS2 in Python).
 
 ![image](https://github.com/user-attachments/assets/fb5ecdf9-bd51-4243-be7d-92af0952bfd8) ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
@@ -45,7 +45,7 @@ i) User friendly - The user sets the parameters in the function to their choosin
  
 ii) Users can easily create summary graphics for the various weather stations in the ACIS2 database. 
    
-3) [**PyClimo**](https://pypi.org/project/pyclimo/) - An open source library for climate data analysis such as NCAR Reanalysis and PRISM data.
+3) [**PyClimo**](https://pypi.org/project/pyclimo/) - An open source Python package for climate data analysis such as NCAR Reanalysis and PRISM data.
 
 Anaconda Downloads:
 
@@ -67,7 +67,7 @@ iii) Utilizes the [xeofs library](https://pypi.org/project/xeofs/) functionality
 
 iv) Accesses NCAR Reanalysis data and PRISM Climate Group data. 
 
-4) [**WxData**](https://pypi.org/project/wxdata/) - An open source library that downloads, pre-processes and post-processes a medley of open-source weather data.
+4) [**WxData**](https://pypi.org/project/wxdata/) - An open source Python package that downloads, pre-processes and post-processes a medley of open-source weather data. Has support for users on VPN/PROXY connections. 
 
 ![weather icon](https://github.com/edrewitz/wxdata/blob/main/icons/weather%20icon.jpg) ![python icon](https://github.com/edrewitz/wxdata/blob/main/icons/python%20logo.png)
 
@@ -91,7 +91,7 @@ iii) Has a scanner that checks if the data files on your PC are up to date with 
 iv) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run.
 
 
-5) [**shapeography**](https://pypi.org/project/shapeography/) - A Python library that both a client that downloads various shapefiles and GEOJSON files from the web and processes these geometry files. Users can also process locally hosted shapefiles and GEOJSON files. Also works for those on VPN/PROXY connections.
+5) [**shapeography**](https://pypi.org/project/shapeography/) - An open source Python package that has a client that automates the download and installation of cartographic files (has VPN/PROXY connection support). Also has tools to unzip these files and extract data from these cartographic files (i.e. .shp and .geojson files). 
 
 <img src="https://github.com/edrewitz/shapeography/blob/main/Thumbnails/86506Livingston-Rev-Base.jpg?raw=true" width="200" alt="Alt text" /> <img src="https://github.com/edrewitz/WxData/blob/1be590e9a16033974a592d8cf99f3cd521f95e0b/icons/python%20logo.png?raw=true" width="200" alt="Alt text" />
 

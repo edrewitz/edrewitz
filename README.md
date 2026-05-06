@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-***My name is Eric J. Drewitz and I am both a Meteorologist (SUNY Oswego Class of 2016) and a self-taught software developer with a focus on data-flow, data-science and data-engineering. I mainly code in the Python Programming Language. New to learning JavaScript and C#.*** 
+***My name is Eric J. Drewitz and I am both a Meteorologist (SUNY Oswego Class of 2016) and a self-taught software developer with a focus on data-flow, data-science and data-engineering. I mainly code in the Python Programming Language. New to learning JavaScript.*** 
 
 My work focuses on developing new Python libraries focusing on weather and climate. 
 

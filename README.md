@@ -1,7 +1,7 @@
 ## print("Hello World!") 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=ffdd54)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=8F00FF)
 
 ***My name is Eric J. Drewitz and I am both a Meteorologist (SUNY Oswego Class of 2016) and a self-taught software developer with a focus on data-flow, data-science and data-engineering. I mainly code in the Python Programming Language. New to learning C#.*** 
 

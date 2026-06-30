@@ -91,7 +91,6 @@ iii) Has a scanner that checks if the data files on your PC are up to date with 
 
 iv) Preserves system memory by clearing out old data files with each new data download combined with the option for users to clear out their computer's recycle/trash bin with each run.
 
-
 5) [**shapeography**](https://pypi.org/project/shapeography/) - An open source Python package that has a client that automates the download and installation of cartographic files (has VPN/PROXY connection support). Also has tools to unzip these files and extract data from these cartographic files (i.e. .shp and .geojson files). 
 
 <img src="https://github.com/edrewitz/shapeography/blob/main/Thumbnails/86506Livingston-Rev-Base.jpg?raw=true" width="200" alt="Alt text" /> <img src="https://github.com/edrewitz/WxData/blob/1be590e9a16033974a592d8cf99f3cd521f95e0b/icons/python%20logo.png?raw=true" width="200" alt="Alt text" />
@@ -109,6 +108,16 @@ shapeography is a package that has a client to manage shapefiles/GEOJSON files. 
 shapeography also has functions to unzip shapefiles/GEOJSON files (supports .zip, .gz, .tar and .tar.gz)
 
 shapeography also extracts the raster data and returns a geopandas.GeoDataFrame of geometry data and full datasets. 
+
+6) [***OpenMeteoApi.NET***](https://www.nuget.org/packages/OpenMeteoApiNet) - An open source package that is a C# interface with the Open-Meteo API. 
+
+<img src="https://github.com/edrewitz/OpenMeteoApi.NET/blob/master/icons/opem%20meteo%20logo.jpg?raw=true" width="500" alt="Alt text" /> <img src="https://github.com/edrewitz/OpenMeteoApi.NET/blob/master/icons/csharplogo.png?raw=true" width="329" alt="Alt text" />
+
+NuGet Downloads: 
+
+![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)
+
+OpenMeteoApi.NET is recommended to use as the back-end for various weather-related C# applications. Accesses free real-time weather model data via the Open-Meteo API. 
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--

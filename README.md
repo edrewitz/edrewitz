@@ -8,63 +8,41 @@ My work focuses on developing packages to help fellow meteorologists and weather
 
 # Various Creations of Mine
 
-## Python 
-
 ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
 
-1) [***FireWxPy***](https://pypi.org/project/firewxpy/) - An open source Python package focused on weather data visualization that has a special emphasis on fire weather. 
+1) [***FireWxPy***](https://pypi.org/project/firewxpy/) - An open source Python package focused on weather data visualization that has a special emphasis on fire weather.
 
-***Anaconda Downloads*** 
+2) [***WxData***](https://pypi.org/project/wxdata/) - An open source Python package consisting of data clients that downloads, pre-processes and post-processes a medley of open-source weather data. Has support for users working on VPNs and/or proxy server connections. Also has other tools to assist with analyzing weather data and assisting with automated workflows.
 
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/firewxpy.svg)](https://anaconda.org/conda-forge/firewxpy)
-
-***PIP Downloads***
-
-![PyPI - Downloads](https://img.shields.io/pypi/dm/firewxpy)
-
-2) [***WxData***](https://pypi.org/project/wxdata/) - An open source Python package consisting of data clients that downloads, pre-processes and post-processes a medley of open-source weather data. Has support for users working on VPNs and/or proxy server connections. Also has other tools to assist with analyzing weather data and assisting with automated workflows. 
-
-***Anaconda Downloads***
-
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wxdata.svg)](https://anaconda.org/conda-forge/wxdata)
-
-
-***PIP Downloads***
-
-![PyPI - Downloads](https://img.shields.io/pypi/dm/wxdata)
- 
 3) [***xmACIS2Py***](https://pypi.org/project/xmacis2py/) - An open source Python package focused on creating data visualizations of ACIS2 climate data (xmACIS2 in Python).
 
-
-***Anaconda Downloads:***
-
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xmacis2py.svg)](https://anaconda.org/conda-forge/xmacis2py)
-
-***PIP Downloads:***
-
-![PyPI - Downloads](https://img.shields.io/pypi/dm/xmacis2py)
-
-4) [***shapeography***](https://pypi.org/project/shapeography/) - An open source Python package that has a client that automates the download and installation of cartographic files (has VPN/PROXY connection support). Also has tools to unzip these files and extract data from these cartographic files (i.e. .shp and .geojson files). 
-
-***Anaconda Downloads***
-
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/shapeography.svg)](https://anaconda.org/conda-forge/shapeography)
-
-***PIP Downloads***
-
-![PyPI - Downloads](https://img.shields.io/pypi/dm/shapeography)
+4) [***shapeography***](https://pypi.org/project/shapeography/) - An open source Python package that has a client that automates the download and installation of cartographic files (has VPN/PROXY connection support). Also has tools to unzip these files and extract data from these cartographic files (i.e. .shp and .geojson files).
 
 5) [***PyClimo***](https://pypi.org/project/pyclimo/) - An open source Python package for climate data analysis such as NCAR Reanalysis and PRISM data.
 
-***Anaconda Downloads***
+**Anaconda Downloads** 
 
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyclimo.svg)](https://anaconda.org/conda-forge/pyclimo)
+***FireWxPy:*** [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/firewxpy.svg)](https://anaconda.org/conda-forge/firewxpy)
 
- ***PIP Downloads***
+***WxData:*** [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wxdata.svg)](https://anaconda.org/conda-forge/wxdata)
 
- ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyclimo)
+***xmACIS2Py:*** [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xmacis2py.svg)](https://anaconda.org/conda-forge/xmacis2py)
 
-## C#
+***shapeography:*** [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/shapeography.svg)](https://anaconda.org/conda-forge/shapeography)
+
+***PyClimo:*** [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyclimo.svg)](https://anaconda.org/conda-forge/pyclimo)
+
+**PIP Downloads**
+
+***FireWxPy:*** ![PyPI - Downloads](https://img.shields.io/pypi/dm/firewxpy)
+
+***WxData:*** ![PyPI - Downloads](https://img.shields.io/pypi/dm/wxdata)
+
+***xmACIS2Py:*** ![PyPI - Downloads](https://img.shields.io/pypi/dm/xmacis2py)
+
+***shapeography:*** ![PyPI - Downloads](https://img.shields.io/pypi/dm/shapeography)
+
+***PyClimo:***  ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyclimo)
 
 <img src="https://github.com/edrewitz/OpenMeteoApi.NET/blob/master/icons/csharplogo.png?raw=true" width="225" alt="Alt text" />
 
@@ -72,7 +50,7 @@ My work focuses on developing packages to help fellow meteorologists and weather
 
 ***NuGet Downloads***
 
-![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)
+***OpenMeteoApi.NET:*** ![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--

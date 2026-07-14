@@ -29,9 +29,9 @@ My work focuses on developing packages to help fellow meteorologists and weather
 
 1) [***OpenMeteoApi.NET***](https://www.nuget.org/packages/OpenMeteoApiNet) - An open source package that is a C# interface with the Open-Meteo API. Recommend using this package for the back-end of C# weather applications that utilize the Open-Meteo API. 
 
-***NuGet Downloads***
-
-***OpenMeteoApi.NET:*** ![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)
+| Package | OpenMeteoApi.NET |
+| -------- | -------- |
+| ***nuget downloads***  | ![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)  |
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--

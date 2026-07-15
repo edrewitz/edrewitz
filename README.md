@@ -22,11 +22,11 @@ My work focuses on developing packages to help fellow meteorologists and weather
 
 | ***Package*** | ***conda-forge (Anaconda) downloads*** | ***pip (pypi) downloads*** | 
 | -------- | -------- | -------- |
-| ***FireWxPy*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/firewxpy.svg)](https://anaconda.org/conda-forge/firewxpy) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/firewxpy) |
-| ***WxData*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wxdata.svg)](https://anaconda.org/conda-forge/wxdata) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/wxdata) |
-| ***xmACIS2Py*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xmacis2py.svg)](https://anaconda.org/conda-forge/xmacis2py) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/xmacis2py) |
-| ***shapeography*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/shapeography.svg)](https://anaconda.org/conda-forge/shapeography) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/shapeography) | 
-| ***PyClimo*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyclimo.svg)](https://anaconda.org/conda-forge/pyclimo) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyclimo) |
+| ***FireWxPy*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/firewxpy.svg)](https://anaconda.org/conda-forge/firewxpy) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/firewxpy)](https://pypistats.org/packages/firewxpy) |
+| ***WxData*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wxdata.svg)](https://anaconda.org/conda-forge/wxdata) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/wxdata)](https://pypistats.org/packages/wxdata) |
+| ***xmACIS2Py*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xmacis2py.svg)](https://anaconda.org/conda-forge/xmacis2py) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/xmacis2py)](https://pypistats.org/packages/xmacis2py) |
+| ***shapeography*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/shapeography.svg)](https://anaconda.org/conda-forge/shapeography) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/shapeography)](https://pypistats.org/packages/shapeography) | 
+| ***PyClimo*** | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyclimo.svg)](https://anaconda.org/conda-forge/pyclimo) | [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyclimo)](https://pypistats.org/packages/pyclimo) |
 
 
 

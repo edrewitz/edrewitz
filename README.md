@@ -37,7 +37,7 @@ My work focuses on developing packages to help fellow meteorologists and weather
 
 | Package | OpenMeteoApi.NET |
 | -------- | -------- |
-| ***nuget downloads***  | ![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)  |
+| ***nuget downloads***  | [![NuGet Downloads](https://img.shields.io/nuget/dt/OpenMeteoApiNet)](https://www.nuget.org/packages/OpenMeteoApiNet)  |
 
 ***I hope you find my libraries useful whether you are an operational meteorologist, researcher, academic etc. My goal is to make computer programming easier for fellow meteorologists, atmospheric scientists and climate scientists alike.*** 
 <!--

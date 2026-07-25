@@ -1,8 +1,8 @@
 # Greetings!
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=8F00FF)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=8F00FF) ![Julia](https://img.shields.io/badge/Julia-B200ED?style=for-the-badge&logo=julia&logoColor=FFFFFF)
 
-***My name is Eric J. Drewitz and I am a Meteorologist with a hobby for software development. I mainly code in the Python programming language, though I am actively learning C# as a second language.*** 
+***My name is Eric J. Drewitz and I am a Meteorologist with a hobby for software development. I mainly code in the Python programming language, though I am actively learning C# and Julia.*** 
 
 My work focuses on developing packages to help fellow meteorologists and weather enthusiats access, analyze and visualize various types of weather and climate data. 
 

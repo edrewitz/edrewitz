@@ -12,7 +12,7 @@ My work focuses on developing packages to help fellow meteorologists and weather
 
 1) [***FireWxPy***](https://pypi.org/project/firewxpy/) - An open source Python package focused on weather data visualization that has a special emphasis on fire weather.
 
-2) [***WxData***](https://pypi.org/project/wxdata/) - An open source Python package consisting of data clients that downloads, pre-processes and post-processes a medley of open-source weather data. Has support for users working on VPNs and/or proxy server connections. Also has other tools to assist with analyzing weather data and assisting with automated workflows.
+2) [***WxData***](https://github.com/edrewitz/WxData/wiki) - An open source Python package consisting of data clients that downloads, pre-processes and post-processes a medley of open-source weather data. Has support for users working on VPNs and/or proxy server connections. Also has other tools to assist with analyzing weather data and assisting with automated workflows.
 
 3) [***xmACIS2Py***](https://pypi.org/project/xmacis2py/) - An open source Python package focused on creating data visualizations of ACIS2 climate data (xmACIS2 in Python).
 

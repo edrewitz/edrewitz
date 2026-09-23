@@ -1,6 +1,6 @@
 # Greetings!
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=8F00FF) ![Julia](https://img.shields.io/badge/Julia-B200ED?style=for-the-badge&logo=julia&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=8F00FF) ![Julia](https://img.shields.io/badge/Julia-B200ED?style=for-the-badge&logo=julia&logoColor=FFFFFF) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ***My name is Eric J. Drewitz and I am a Meteorologist with a hobby for software development. I mainly code in the Python programming language. Though I am starting to dabble in Shell Scripting, C# and Julia.*** 
 
